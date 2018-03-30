@@ -1,0 +1,39 @@
+.container {
+	background-color: #2f4f7f;
+	max-width: 230px;
+	color: #5a5a5a;
+	text-align: center;
+	margin-top: 80px;
+	margin-left: 20%;
+	margin-right: 20%;
+	border: 2px solid hsl(0, 50%, 70%);
+	padding: 5px;
+}
+
+#input {
+	background-color: #ffffff;
+	color: #000000;
+	width: 100%;
+	text-align: right;
+	margin: 0 auto;
+	border-style: ridge;
+	border-color: #D98C8C;
+	border-width: 5px;
+	padding: 10px;
+}
+
+#hline { 
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 1px;
+}
+
+#prc {
+	color: white;
+	text-align: left;
+	font-size: 10px;
+}
