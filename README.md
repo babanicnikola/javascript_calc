@@ -1,2 +1,2 @@
-# javascript_calculator_freecodecamp_project
+# Preview: https://codepen.io/babanic/full/JLRaZK
 Project "JavaScript Calculator" on freecodecamp
